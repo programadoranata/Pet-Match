@@ -20,44 +20,21 @@ Ele permite cadastrar pets, gerenciar adotantes e registrar adoções de forma s
 ### Adotantes
 - Cadastrar adotante  
 - Listar adotantes  
-- Buscar adotantes por nome (opcional)  
+- Buscar adotantes por nome  
 
 ---
 
 ### Adoções
-- Registrar adoção (pet + adotante + data)  
+- Registrar adoção 
 - Consultar histórico de adoções  
-- Verificar automaticamente se o pet está disponível antes da adoção  
+- Verificar automaticamente se o pet está disponível antes da adoção
 
 ---
 
-## Tecnologias Utilizadas
-- Linguagem: (definir conforme o projeto, ex: Java ou Python)  
-- Banco de Dados: DBeaver + MySQL/MariaDB  
-- Paradigma: Programação Orientada a Objetos (POO)
+## DER
 
----
+  ![texto alternativo](PetMatch.png)
 
-## Banco de Dados
-Inclui:
-- Script SQL para criação das tabelas  
-- DER (Diagrama Entidade-Relacionamento)  
-- Relacionamentos entre Pets, Adotantes e Adoções  
 
----
 
-## Objetivo
-Oferecer uma solução prática, intuitiva e organizada para ONGs e abrigos que desejam controlar seus processos de adoção de forma eficiente.
-
----
-
-## Como executar o projeto
-1. Importe o script SQL no DBeaver.  
-2. Configure a conexão do backend com o banco.  
-3. Execute o sistema na IDE escolhida (NetBeans, PyCharm, IntelliJ etc.).  
-
----
-
-## Desenvolvido para a disciplina de POO
-Projeto simples, criativo e funcional, seguindo o paradigma de Programação Orientada a Objetos.
 
